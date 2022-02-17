@@ -26,5 +26,5 @@ Create xml feed according to the required format
 
 ###### Used to:
 * create unique digit product id
-* read image files names and compare them to product names to link img to product 
+* read image files names and compare them to product names for linking img 
 * analyze RGB img map and define prevailing colors
